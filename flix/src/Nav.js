@@ -7,7 +7,7 @@ const Nav = () => {
       <div className="nav_contents">
         <img className="nav_logo" src="nn.png" alt="" />
 
-        <img className="nav_avatar" src="avatar.jpeg" alt="" />
+        <img className="nav_avatar" src="avatar.png" alt="" />
       </div>
     </div>
   );
